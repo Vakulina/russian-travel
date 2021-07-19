@@ -1,4 +1,5 @@
-.gallery__image {
+.place__image {
+  grid-area: image;
   width: 100%;
   object-fit: cover;
 }

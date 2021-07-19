@@ -1,0 +1,13 @@
+.place__paragraph {
+  grid-area: paragraph;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  text-align: left;
+  margin: 0;
+  margin-bottom: 26px;
+}
+.place__paragraph:last-child{
+  margin: 0;
+}
