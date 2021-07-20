@@ -35,3 +35,7 @@
 @import url("../blocks/cover/__image/cover__image.css");
 @import url("../blocks/cover/__image-overlay/cover__image-overlay.css");
 @import url("../blocks/cover/__image-wrapper/cover__image-wrapper.css");
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__copiright/footer__copiright.css");
+@import url("../blocks/navigation/navigation.css");
+@import url("../blocks/navigation/__link/navigation__link.css");
