@@ -1,4 +1,7 @@
 .header__lang-link {
   display: inline;
-
+  margin: 0;
+}
+.header__lang-link:not(:last-child){
+  margin-right: 18px;
 }

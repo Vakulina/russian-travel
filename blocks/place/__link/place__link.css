@@ -9,3 +9,9 @@
   color: #FFFFFF;
   align-self: end;
 }
+@media (max-width: 319px) {
+  .place__title {
+    font-size: 14px;
+    line-height: 16px;
+  }
+}

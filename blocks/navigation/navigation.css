@@ -4,3 +4,11 @@
   margin: 0 0 24px 0;
   max-width: 100%;
 }
+@media (max-width: 750px) {
+  .navigation {
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0;
+  margin-bottom: 48px;
+  }
+}

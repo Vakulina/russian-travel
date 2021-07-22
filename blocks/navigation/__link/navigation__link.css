@@ -8,3 +8,12 @@
   color: #FFFFFF;
   margin-right: 18px;
 }
+@media (max-width: 750px) {
+  .navigation__link {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .navigation__link:not(:last-child) {
+    margin-bottom: 32px;
+  }
+}

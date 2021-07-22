@@ -4,5 +4,10 @@
   font-weight: 400;
   line-height: 16px;
   text-align: right;
-
+}
+@media (max-width: 750px) {
+  .footer__copiright {
+    text-align: left;
+    line-height: 14px;
+  }
 }
