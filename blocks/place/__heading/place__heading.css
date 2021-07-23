@@ -8,7 +8,7 @@
   text-align: left;
   color:#AAAAAA;
 }
-@media (max-width: 500px) {
+@media (max-width: 505px) {
   .place__heading {
     margin-left: 16px;
   }

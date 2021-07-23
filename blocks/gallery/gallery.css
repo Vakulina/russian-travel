@@ -20,7 +20,7 @@
     margin-bottom: 88px;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 356px) {
   .gallery {
     grid-template-columns: repeat(1, minmax(150px, 1fr));
     padding: 0 16px 0 16px;

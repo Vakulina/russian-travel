@@ -8,7 +8,7 @@
   color: #FFFFFF;
   align-self: end;
 }
-@media (max-width: 500px) {
+@media (max-width: 505px) {
   .place__link {
     margin-left: 16px;
   }
