@@ -39,7 +39,7 @@
     "image"
     "paragraf";
     grid-row-gap: 32px;
-    margin: 0 16px 50px 16px;
+    margin: 0 16px 50px 0;
   }
   .place:last-child {
     margin-bottom: 65px;

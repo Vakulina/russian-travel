@@ -8,9 +8,8 @@
   color: #FFFFFF;
   align-self: end;
 }
-@media (max-width: 319px) {
-  .place__title {
-    font-size: 14px;
-    line-height: 1.14;
+@media (max-width: 500px) {
+  .place__link {
+    margin-left: 16px;
   }
 }

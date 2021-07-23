@@ -21,12 +21,14 @@
   bottom: 0;
   background: #2A2C2F;
   opacity: 0.3;
+  transition: opacity 1s;
   z-index: 1;
 }
 
 .cover:hover:after {
   background: #2A2C2F;
   opacity: 0.8;
+  transition: 1s ease-out;
 }
 
 @media (max-width: 1024px) {

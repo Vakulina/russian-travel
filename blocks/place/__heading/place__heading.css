@@ -6,4 +6,10 @@
   line-height: 1;
   letter-spacing: 2px;
   text-align: left;
+  color:#AAAAAA;
+}
+@media (max-width: 500px) {
+  .place__heading {
+    margin-left: 16px;
+  }
 }
