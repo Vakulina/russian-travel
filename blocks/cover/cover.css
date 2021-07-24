@@ -5,20 +5,3 @@
   justify-content: center;
   
 }
-.cover__link::after {
-  content: " ";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: #2A2C2F;
-  opacity: 0.3;
-  transition: opacity 1s;
-
-}
-.cover__link:hover:after {
-  background: #2A2C2F;
-  opacity: 0.8;
-  transition: 1s ease-out;
-}
