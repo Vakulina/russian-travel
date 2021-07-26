@@ -1,12 +1,4 @@
 .place__image {
   grid-area: image;
   max-width: 100%;
-  object-fit: contain;
-}
-@media (max-width: 505px) {
-  .place__image {
-    grid-area: image;
-    max-width: calc(100% + 16px);
-    object-fit: contain;
-  }
 }

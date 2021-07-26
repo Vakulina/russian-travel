@@ -14,6 +14,7 @@
   margin-bottom: 94px;
   min-height: 740px;
   position: relative;
+  transition: 1s ease-out;
 }
 .cover__link::after {
   content: " ";
@@ -24,18 +25,14 @@
   bottom: 0;
   background: #2A2C2F;
   opacity: 0.3;
-  transition: opacity 1s;
-
+  transition: 1s ease-out;
 }
 .cover__link:hover:after {
-  background: #2A2C2F;
   opacity: 0.8;
-  transition: 1s ease-out;
 }
 
 @media (max-width: 1024px) {
   .cover__link {
-    width: 100%;
     min-height: 640px;
     margin-bottom: 92px;
   }
