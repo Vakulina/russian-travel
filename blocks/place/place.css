@@ -30,7 +30,7 @@
   .place {
     grid-template-columns: 340px 1fr;
     grid-column-gap: 28px;
-    margin: 0 24px 73px 24px;
+    margin: 0 24px 72px 24px;
   }
   .place:last-child {
     margin-bottom: 90px;
